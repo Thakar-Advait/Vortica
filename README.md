@@ -3,7 +3,7 @@
 
 ## 📖 Overview
 
-Vortica is a powerful video editing API inspired by YouTube, designed to manage videos, playlists, comments, tweets, subscriptions, and likes. This document provides a comprehensive guide to its functionalities, API endpoints, and installation steps.
+Vortica is a powerful API inspired by YouTube, designed to manage videos, playlists, comments, tweets, subscriptions, and likes. This document provides a comprehensive guide to its functionalities, API endpoints, and installation steps.
 
 ## 🛠️ Tech Stack
 
